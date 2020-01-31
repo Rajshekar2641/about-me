@@ -13,9 +13,9 @@ This repo is used for giving information on recommended tools with lists, and li
 
 Below are some of the tools for Web Building.
 
-- [Wix](Wix.com)
-- [WordPress](WordPress.com)
-- [HostGator](HostGator.com)
+- [Wix](https://www.wix.com)
+- [WordPress](https://www.wordPress.com)
+- [HostGator](https://www.hostgator.com)
 
 ## Recommended Resources
 
