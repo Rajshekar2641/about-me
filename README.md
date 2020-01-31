@@ -16,3 +16,19 @@ Below are some of the tools for Web Building.
 - [Wix](Wix.com)
 - [WordPress](WordPress.com)
 - [HostGator](HostGator.com)
+
+## Recommended Resources
+
+Some of the resources we can refer to for Web Development are :-
+
+1. [CSS 3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+2. [Java Script](https://en.wikipedia.org/wiki/JavaScript)
+3. [JQuery](https://jqueryui.com/)
+
+## Contributor
+
+Rajashekar Gande
+MS- ACS
+
+## Image
+![Web_Image](https://www.csschopper.com/blog/wp-content/uploads/2018/09/web-design-development.jpg)
