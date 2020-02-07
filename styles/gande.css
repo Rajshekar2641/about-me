@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+#C:\Users\s538099\Documents\44563\about-me\pic.jpeg{
+    border-radius: 50%;
+    max-width: 20%;
+    display: block;
+    flex-basis: 20%;
+}
