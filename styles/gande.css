@@ -1,9 +1,22 @@
 body {
     margin: 0;
 }
-#C:\Users\s538099\Documents\44563\about-me\pic.jpeg{
+.circle{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+.cir
+{
     border-radius: 50%;
     max-width: 20%;
     display: block;
     flex-basis: 20%;
+    align="right";
+}
+h1{
+    justify-content: center;
+}
+p{
+    font-size: x-large;
 }
